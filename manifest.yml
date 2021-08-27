@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: SD-NLU-App
+    environment_json: {}
+    memory: 256M
+    instances: 1
+    disk_quota: 1024M
+    services: []
